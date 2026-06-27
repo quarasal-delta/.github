@@ -1,8 +1,8 @@
-# 🎮 Awentale Studio
+# 🎮 Delta Studio
 
 **3D Narrative RPG • Turn-Based Combat • Standalone Story Worlds**
 
-Awentale Studio is an independent game studio dedicated to creating immersive 3D fictional worlds through story-driven RPG experiences.
+Delta Studio is an independent game studio dedicated to creating immersive 3D fictional worlds through story-driven RPG experiences.
 
 We focus on building complete narrative games — not live-service titles — where each release delivers a full, self-contained journey with a clear beginning and ending.
 
